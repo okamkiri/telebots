@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import datetime
 import telebot
 
-bot = telebot.TeleBot('7139014883:AAFuYlgSTmErdwHPTKJGvWSsa-QYFZ0lfW0')
+bot = telebot.TeleBot('here a you`re telebot url')
 
 @bot.message_handler(commands=["start"])
 def start(message):
