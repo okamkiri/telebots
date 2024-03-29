@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import json
 
-bot = telebot.TeleBot('7174512848:AAEHOk8B9Jk5Xh_Lh5ZbhF9nVbIqY7gmv3U')
+bot = telebot.TeleBot('here a code')
 
 SUPPORT_CHAT_ID = "123456789"  # Замените на chat_id чата с техподдержкой
 
